@@ -1,0 +1,20 @@
+C:\Users\Георгий\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\Георгий\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\Георгий\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\Георгий\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\Георгий\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\Георгий\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\Георгий\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\Георгий\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\Георгий\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\Георгий\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+E:\УЧЁБА\2 Курс\КГ\Лабы\3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+E:\УЧЁБА\2 Курс\КГ\Лабы\3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+E:\УЧЁБА\2 Курс\КГ\Лабы\3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+E:\УЧЁБА\2 Курс\КГ\Лабы\3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+E:\УЧЁБА\2 Курс\КГ\Лабы\3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+E:\УЧЁБА\2 Курс\КГ\Лабы\3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+E:\УЧЁБА\2 Курс\КГ\Лабы\3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+E:\УЧЁБА\2 Курс\КГ\Лабы\3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+E:\УЧЁБА\2 Курс\КГ\Лабы\3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+E:\УЧЁБА\2 Курс\КГ\Лабы\3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
